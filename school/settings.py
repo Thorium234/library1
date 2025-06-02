@@ -91,8 +91,8 @@ DATABASES = {
         'NAME': 'library1db',
         'USER':'librarian1',
         'PASSWORD':'@lib123',
-        'HOST':'localhost',
-        'PORT':''
+        'HOST':'postgresql://postgres:LItAQHuCxtZucYkZMeXQWpMYTxzTfVee@centerbeam.proxy.rlwy.net:25772/railway',
+        'PORT':'5432'
     }
 }
 
